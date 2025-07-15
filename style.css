@@ -1,0 +1,12 @@
+.list-item{}
+.item{
+margin: 12px;
+padding: 12px;
+background-color: brown;
+border: 6px solid blue;
+
+}
+a:link{color: red;}
+a:hover{color: black;}
+a:visited{color: green;}
+a:active{color: aqua;}
